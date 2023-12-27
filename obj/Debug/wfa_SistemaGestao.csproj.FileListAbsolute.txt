@@ -1,0 +1,10 @@
+C:\Users\julio\source\repos\wfa_SistemaGestao\bin\Debug\wfa_SistemaGestao.exe.config
+C:\Users\julio\source\repos\wfa_SistemaGestao\bin\Debug\wfa_SistemaGestao.exe
+C:\Users\julio\source\repos\wfa_SistemaGestao\bin\Debug\wfa_SistemaGestao.pdb
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.Form1.resources
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.Properties.Resources.resources
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.exe
+C:\Users\julio\source\repos\wfa_SistemaGestao\obj\Debug\wfa_SistemaGestao.pdb
